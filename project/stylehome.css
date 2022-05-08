@@ -1,0 +1,42 @@
+body
+{
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('./images/studentback.jpg');
+  background-size: 100% 110%;
+	width: 100%;
+	height: 100vh;
+  position: relative;
+  
+ 
+}
+#container 
+{
+  height: 500px;
+  background-color: yellow;
+}
+#container h1
+{
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn
+{
+  width: 12%;
+  height:60px;
+  margin:20px;
+  border-radius: 5%;
+  text-decoration:none;
+  background-color:#756189;
+  border:none;
+  color:white;
+  font-size: 20px;
+}
+.btn:hover
+{
+
+}
+div
+{
+  margin-top: 15%;
+}
